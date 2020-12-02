@@ -1,0 +1,50 @@
+ body {
+
+ }
+ h1{
+
+ }
+/* container div  {
+   background: lightblue;
+   border: 5px solid # 55555;
+   width:  calc  ( 100% /4);
+   height: 100px;
+   opacity: 1;
+   display: inline-block;
+}*/
+ div.one {
+   width: 200px;
+   height: 100;
+background - color: tomato;
+
+ }
+div.two {
+  width: 200px;
+  height: 100;
+background - color: : green;
+}
+div.three {
+  width: 200px;
+  height: 100;
+ background: yellow;
+}
+div.four{
+  width: 200px;
+  height: 100;
+ background - color: : lightblue;
+
+}
+    . div{
+
+
+ }
+
+ img {
+    position: absolute;
+    left:auto;
+    top:auto;
+    z-index: -1;
+ }
+p {
+
+}
